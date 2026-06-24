@@ -1,0 +1,6 @@
+{
+  "name": "Լրացրու երկխոսությունը",
+  "description": "Ինտերակտիվ իսպաներենի ուսուցողական խաղ երկու խաղացողի համար։ Լրացրեք երկխոսությունները, վաստակեք աստղեր ու մետաղադրամներ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
